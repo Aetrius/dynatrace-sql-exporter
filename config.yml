@@ -1,4 +1,4 @@
-dsn: sqlserver://admin:KJCIjbjfnDAUpwg6Twqy@database-1.cxnxagsqunz0.us-east-1.rds.amazonaws.com:1433/information_schema
+dsn: sqlserver://adsf:asdff@database-1.cxnxagsqunz0.us-east-1.rds.amazonaws.com:1433/information_schema
 metrics:
   db_table_size_bikes:
     query: 
